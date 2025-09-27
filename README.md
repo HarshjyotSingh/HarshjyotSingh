@@ -24,6 +24,6 @@
 
 Check out my  projects :
 
-[![Projects](https://img.shields.io/badge/View%20My-Projects-blue?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=repositories)
+[![Projects](https://img.shields.io/badge/View%20My-Projects-blue?style=for-the-badge&logo=github)](https://github.com/HarshjyotSingh?tab=repositories)
 
 
