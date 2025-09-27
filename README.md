@@ -1,5 +1,16 @@
 ![Header](header.png)
-I'm an **Aspiring Data Analyst from India** 🇮🇳, passionate about transforming raw data into meaningful insights through analytics, visualization, and storytelling. I bring proficiency in **Excel** with expertise in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting. My **Power BI** skills include building interactive dashboards and visualizations, with hands-on experience in DAX, Power Query, and custom visuals to provide business insights. I'm experienced in **SQL** for writing complex queries for data extraction, aggregation, and analysis across large datasets. My **Python** competency covers Pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization. I'm also proficient in **data cleaning** techniques to ensure accuracy and consistency in datasets using Excel, SQL, and Python, making me well-equipped to deliver reliable and actionable insights from complex data.
+
+- I'm an **Aspiring Data Analyst from India** 🇮🇳.
+
+- Proficient in **Excel** with expertise in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting.
+
+- Skilled in **Power BI** for building interactive dashboards and visualizations, with hands-on experience in DAX, Power Query, and custom visuals to provide business insights.
+
+- Experienced in **SQL** for writing complex queries for data extraction, aggregation, and analysis across large datasets.
+
+- Competent in **Python** using Pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization.
+
+- Proficient in **data cleaning** techniques to ensure accuracy and consistency in datasets using Excel, SQL, and Python.
 
 
 ## 🌐 Socials:
