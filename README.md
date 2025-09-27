@@ -1,6 +1,18 @@
-# 💫 About Me:
-An Aspiring Data Analyst from India<br><br>SKILLS:<br><br>Proficient in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting .<br><br>Skilled in creating interactive dashboards and visualizations with Power BI, utilizing DAX, Power Query, and custom visuals .<br><br>Experienced in writing complex SQL queries for data extraction, aggregation, and analysis across large datasets .<br><br>Competent in using Python libraries like Pandas, NumPy, and Matplotlib for data manipulation and analysis .<br><br>Proficient in data cleaning techniques to ensure accuracy and consistency in datasets, using tools like Excel, SQL, and Python .
-
+💡 About Me
+  I’m an Aspiring Data Analyst from India passionate about transforming raw data into actionable insights through analytics, visualization, and storytelling.
+  
+🛠️ Skills
+Excel 🧾
+  Proficient in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting.
+Power BI 📊
+  Skilled in building interactive dashboards and visualizations.
+  Hands-on with DAX, Power Query, and custom visuals to provide business insights.
+SQL 🗄️
+  Experienced in writing complex queries for data extraction, aggregation, and analysis across large datasets.
+Python 🐍
+  Competent in Pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization.
+Data Cleaning 🧹
+  Proficient in techniques to ensure accuracy and consistency in datasets using Excel, SQL, and Python.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshjyotSingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyotsinghharsh123@gmail.com) 
