@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshjyotSingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyotsinghharsh123@gmail.com) 
 
 ## 📄 Resume
-[![Download Resume](https://img.shields.io/badge/Download-Resume-success?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/HarshjyotSingh/HarshjyotSingh/blob/main/resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-success?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/HarshjyotSingh/HarshjyotSingh/blob/main/Harsh-ResumeNew.pdf)
 
 > 💡 **Tip:** Click the badge above to view or download my latest resume!
 
